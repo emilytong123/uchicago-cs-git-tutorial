@@ -1,1 +1,2 @@
-Emily Tong emilytong
+Emily Tong emilytong 
+UChicago CS Git Tutorial
